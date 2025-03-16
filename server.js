@@ -9,8 +9,6 @@ const app = express();
 const email = process.env.REACT_APP_MY_EMAIL;
 const password = process.env.REACT_APP_MY_EMAIL_PASSWORD;
 
-console.log(email);
-console.log(password);
 app.use(cors());
 app.use(express.json());
 app.use("/", router);
