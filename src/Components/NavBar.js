@@ -47,7 +47,7 @@ const onUpdateActiveLink = (value) => {
           </Nav>
           <span className="navbar-text">
             <div className="social-icon">
-                <a href="#"> <img src={navIcon1} alt=""/> </a>
+                <a href="https://linkedin.com/in/ndumiso-zwane-67b951250" target="_blank" rel="noopener noreferrer"> <img src={navIcon1} alt=""/> </a>
                 <a href="#"> <img src={navIcon2} alt=""/> </a>
                 <a href="#"> <img src={navIcon3} alt=""/> </a>
             </div>
